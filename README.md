@@ -6,3 +6,6 @@
 - Instagram (@uveall)
 
 Or, you can use the actual designated [Linktree](https://linktr.ee/uveal)
+
+
+`yes i just spent my free time coding this in markup lol`
